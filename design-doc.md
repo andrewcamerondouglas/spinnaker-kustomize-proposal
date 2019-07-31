@@ -150,4 +150,4 @@ https://github.com/spinnaker/spinnaker.github.io/tree/master/guides/user/kuberne
 
 
 ## Timescales
-Depending on how long it takes to get a consensus on whether this change should be included in Spinnaker, and if the approach outlined here is sensible, it is expected that adding kustomize will take around two weeks.
+After obtaining consensus on whether this change should be included in Spinnaker, and if the approach outlined here is sensible, it is expected that adding kustomize will take around two weeks.
